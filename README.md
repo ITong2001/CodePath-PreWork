@@ -6,7 +6,7 @@ Submitted by: Ivy Tong
 
 Time spent: 3 hours spent in total
 
-Link to project: https://raspy-furtive-fur.glitch.me/
+Link to project: https://raspy-furtive-fur.glitch.me
 
 
 ## Required Functionality
@@ -21,7 +21,8 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 * [x] User loses the game after an incorrect guess
 
-The following **optional** features are implemented:
+The following **optional** features are implemented:![]
+
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
@@ -40,7 +41,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]
+![]![](https://i.imgur.com/zrxhPIp.gif)
+
 
 
 ## Reflection Questions
